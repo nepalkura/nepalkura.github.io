@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://nepalkura.github.io/sitemap.xml
