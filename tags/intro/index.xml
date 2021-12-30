@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title></title>
-    <link>http://nepalkura.github.io/</link>
-    <description>Recent content on </description>
+    <title>intro on </title>
+    <link>http://nepalkura.github.io/tags/intro/</link>
+    <description>Recent content in intro on </description>
     <image>
       <url>http://nepalkura.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://nepalkura.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://nepalkura.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://nepalkura.github.io/tags/intro/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>http://nepalkura.github.io/about/</link>
@@ -19,17 +19,6 @@
       <description>Hello Namaste to all! My name is Krishna. I am originally from Nepal currently living in the US.
 My academic training and daily work is in data domain; building systems and processes to make data informed decisions. My hobby outside work is in history, religion, languages and how these evolved over time and space. Will be ussing this blog to catalog information that I find interesting on these topics.
 Everything that I post here is for educational purpose.</description>
-    </item>
-    
-    
-    <item>
-      <title>The Effects Of Anglo-Indian Education</title>
-      <link>http://nepalkura.github.io/posts/the-effects-of-anglo-indian-education/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://nepalkura.github.io/posts/the-effects-of-anglo-indian-education/</guid>
-      <description>Book - India and Christian Missions Author - Rev. Edward Storrow, of the London Missionary Society, Calcutta Published Date - 1859 URL - https://archive.org/details/indiaandchristi00storgoog  In particular, Page 124, Appendix C is highly relevant for us today. Emphasis all mine.
- The Hindu sacred writings profess to teach, not only all that it is needful to know about religion, but about science, philosophy, and history, as well. Geography and astronomy are supposed as really to be subjects of inspired authoritative teaching as theology.</description>
     </item>
     
   </channel>
