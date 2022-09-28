@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Nepali on </title>
-    <link>http://nepalkura.github.io/tags/nepali/</link>
-    <description>Recent content in Nepali on </description>
+    <title>Bhajan on </title>
+    <link>http://nepalkura.github.io/tags/bhajan/</link>
+    <description>Recent content in Bhajan on </description>
     <image>
       <url>http://nepalkura.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://nepalkura.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Sep 2022 19:34:00 -0700</lastBuildDate><atom:link href="http://nepalkura.github.io/tags/nepali/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Sep 2022 19:34:00 -0700</lastBuildDate><atom:link href="http://nepalkura.github.io/tags/bhajan/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>जय अम्बे जय अम्बे</title>
       <link>http://nepalkura.github.io/posts/jai-ambe-jai-ambe/</link>
@@ -18,15 +18,6 @@
       
       <guid>http://nepalkura.github.io/posts/jai-ambe-jai-ambe/</guid>
       <description> जय अम्बे जय अम्बे अम्बे जय अम्बे महाकाली । १ जय दुर्गे जय दुर्गे दुर्गे जय जय दक्षिणकाली । २ दुर्गती हारिणी शुम्भ विदारिणी कर्म सुधारिणी माता १ २ मंगलकारिणी शान्ति प्रदायणी विजय प्रदायिणी माता १ २ मानस चारिणी भवभव हारिणी अभय प्रदायणी माता १ २ दुर्गती हारिणी शुम्भ विदारिणी कर्म सुधारिणी माता १ २ </description>
-    </item>
-    
-    <item>
-      <title>Waseem Rizvi 26 Verses</title>
-      <link>http://nepalkura.github.io/posts/waseem-rizvi-26-verses/</link>
-      <pubDate>Tue, 26 Apr 2022 19:58:00 -0700</pubDate>
-      
-      <guid>http://nepalkura.github.io/posts/waseem-rizvi-26-verses/</guid>
-      <description>Waseem Rizvi used to be Shia Central Waqf Board Chairman. He filed a petition in the Supreme Court appealing to remove 26 verses from the Quran arguing those verses promote terrorism. He recently converted to Hinduism and got a new name Jitendra Narayan Singh Tyagi. As of now, Mr. Tyagi is in Jail for allegedly hurting religious sentiments. Below is the list of those verses with Nepali translation (copied from Quoran Translation to Nepali from हज्रत मिर्जा ताहिर अहमद published by Islam International Publications Limited (2001).</description>
     </item>
     
   </channel>
